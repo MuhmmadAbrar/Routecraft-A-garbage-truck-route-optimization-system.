@@ -1,0 +1,2 @@
+# Routecraft - Garbage Truck Route Optimization System
+ This project demonstrates the successful integration of an ESP32 microcontroller with ThingSpeak and Flask, a combination that has facilitated the development of an innovative "Garbage Truck Route Optimization System." This system is designed to generate optimal routes for garbage collection vehicles, dynamically considering factors such as dustbin location and fill status.

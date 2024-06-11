@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Dustbin Management System</title>
+<link rel="stylesheet" href="styles.css">
+<link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+<script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+</head>
+<body>
+<div class="container">
+  <h2>Dustbin Management System</h2>
+  <form id="dustbinForm">
+    <div class="form-group">
+      <label for="latitude">Latitude:</label>
+      <input type="text" id="latitude" name="latitude" required>
+    </div>
+    <div class="form-group">
+      <label for="longitude">Longitude:</label>
+      <input type="text" id="longitude" name="longitude" required>
+    </div>
+    <div class="form-group">
+      <label for="capacity">Capacity:</label>
+      <input type="text" id="capacity" name="capacity" required>
+    </div>
+    <button type="submit">Add Dustbin</button>
+  </form>
+  <h2>Available Dustbins</h2>
+  <div id="dustbinsContainer" style="margin-top: 20px;">
+  </div>
+  <h2>Optimized Route</h2>
+  <div id="optimizedRouteContainer" style="margin-top: 20px;">
+    <button id="calculateRouteButton">Calculate Optimized Route</button>
+    <p id="optimizedRouteSequence"></p>
+  </div>
+  <h2>Locations</h2>
+  <div class="geomapContainer" style="margin-top: 20px;">
+    <div id="map"></div>
+  </div>
+</div>
+<script src="scripts.js"></script>
+</body>
+</html>

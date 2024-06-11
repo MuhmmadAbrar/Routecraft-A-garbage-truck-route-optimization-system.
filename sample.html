@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Map Display</title>
+<!-- Import Leaflet CSS -->
+<link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+
+<!-- Import Leaflet JavaScript -->
+<script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+
+<!-- Style for the map container -->
+<style>
+    #map {
+        height: 500px;
+        width: 100%;
+    }
+</style>
+</head>
+<body>
+<div class="container">
+  <h2>Map Display</h2>
+  <div id="map"></div>
+</div>
+
+<!-- JavaScript code to create the map -->
+<script>
+    // Initialize Leaflet map
+    var map = L.map('map').setView([40.7128, -74.0060], 5);
+
+    // Add OpenStreetMap tile layer to the map
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+        attribution: 'Map data © <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+    }).addTo(map);
+
+    // Sample coordinates for markers
+    var coordinates = [
+        [40.7128, -74.0060],  // New York City
+        [34.0522, -118.2437], // Los Angeles
+        [41.8781, -87.6298],  // Chicago
+        [29.7604, -95.3698]   // Houston
+    ];
+
+    // Add markers to the map
+    for (var i = 0; i < coordinates.length; i++) {
+        L.marker(coordinates[i]).addTo(map);
+    }
+</script>
+</body>
+</html>
