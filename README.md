@@ -72,7 +72,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For any questions or suggestions, feel free to open an issue or contact the project maintainer:
 
-- **Muhammad Abrar**: [GitHub Profile](https://github.com/MuhmmadAbrar)
+- **Muhmmad Abrar**: [GitHub Profile](https://github.com/MuhmmadAbrar)
 
 ---
 
