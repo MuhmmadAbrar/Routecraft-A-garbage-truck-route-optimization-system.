@@ -22,7 +22,7 @@ Routecraft is a sophisticated solution designed to optimize the routes of garbag
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/MuhmmadAbrar/Routecraft----A-garbage-truck-route-optimization-system.git
+   git clone https://github.com/MuhmmadAbrar/Routecraft-A-garbage-truck-route-optimization-system.git
    cd Routecraft----A-garbage-truck-route-optimization-system
    ```
 
