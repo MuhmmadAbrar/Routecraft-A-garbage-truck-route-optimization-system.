@@ -38,6 +38,7 @@ Routecraft is a sophisticated solution designed to optimize the routes of garbag
    ```sh
    pip install -r requirements.txt
    ```
+   
 
 4. Run the application:
    ```sh
