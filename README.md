@@ -12,7 +12,7 @@ Routecraft is a sophisticated solution designed to optimize the routes of garbag
 
 ## Implementation Snaps
 <div style="display: flex; justify-content: center; gap: 10px;">
-  <img src="https://github.com/MuhmmadAbrar/Routecraft-A-garbage-truck-route-optimization-system./blob/main/assets/001.jpeg" style="max-height: 100px;" alt="Smart Dustbin">
+  <img src="https://github.com/MuhmmadAbrar/Routecraft-A-garbage-truck-route-optimization-system./blob/main/assets/001.jpeg" style="max-height: 100px;" alt="Smart Dustbin" style = "height:50px">
   <img src="https://github.com/MuhmmadAbrar/Routecraft-A-garbage-truck-route-optimization-system./blob/main/assets/002.jpeg" style="max-height: 100px;" alt="Dustbin Details Fetched from Thingspeak">
   <img src="https://github.com/MuhmmadAbrar/Routecraft-A-garbage-truck-route-optimization-system./blob/main/assets/003.jpeg" style="max-height: 100px;" alt="Optimized Route">
 </div>
