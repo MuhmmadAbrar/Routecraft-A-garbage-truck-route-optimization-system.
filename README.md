@@ -10,6 +10,11 @@ Routecraft is a sophisticated solution designed to optimize the routes of garbag
 - **Real-Time Adjustments**: Allows for real-time route adjustments based on live traffic updates and other factors.
 - **Cost Efficiency**: Aims to reduce operational costs and fuel consumption.
 
+## Implementation Snaps
+- ![Smart Dustbin](https://github.com/MuhmmadAbrar/Routecraft-A-garbage-truck-route-optimization-system./blob/main/assets/001.jpeg)
+- ![Dustbin Details Fetched from Thingspeak](https://github.com/MuhmmadAbrar/Routecraft-A-garbage-truck-route-optimization-system./blob/main/assets/002.jpeg)
+- ![Optimized Route](https://github.com/MuhmmadAbrar/Routecraft-A-garbage-truck-route-optimization-system./blob/main/assets/003.jpeg)
+
 ## Installation
 
 ### Prerequisites
