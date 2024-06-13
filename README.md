@@ -10,13 +10,6 @@ Routecraft is a sophisticated solution designed to optimize the routes of garbag
 - **Real-Time Adjustments**: Allows for real-time route adjustments based on live traffic updates and other factors.
 - **Cost Efficiency**: Aims to reduce operational costs and fuel consumption.
 
-## Implementation Snaps
-<div style="display: flex; justify-content: center; gap: 10px;">
-  <img src="https://github.com/MuhmmadAbrar/Routecraft-A-garbage-truck-route-optimization-system./blob/main/assets/001.jpeg" style="max-height: 100px;" alt="Smart Dustbin" style = "height:50px">
-  <img src="https://github.com/MuhmmadAbrar/Routecraft-A-garbage-truck-route-optimization-system./blob/main/assets/002.jpeg" style="max-height: 100px;" alt="Dustbin Details Fetched from Thingspeak">
-  <img src="https://github.com/MuhmmadAbrar/Routecraft-A-garbage-truck-route-optimization-system./blob/main/assets/003.jpeg" style="max-height: 100px;" alt="Optimized Route">
-</div>
-
 ## Installation
 
 ### Prerequisites
@@ -58,6 +51,13 @@ Routecraft is a sophisticated solution designed to optimize the routes of garbag
 2. **Generate Routes**: Use the interface to generate optimized routes for the garbage trucks.
 3. **View Routes**: Visualize the optimized routes on the map.
 4. **Adjust Routes**: Make real-time adjustments to routes based on current conditions.
+
+## Demo Images
+<div style="display: flex; justify-content: center; gap: 10px;">
+  <img src="https://github.com/MuhmmadAbrar/Routecraft-A-garbage-truck-route-optimization-system./blob/main/assets/001.jpeg" style="max-height: 100px;" alt="Smart Dustbin" style = "height:50px">
+  <img src="https://github.com/MuhmmadAbrar/Routecraft-A-garbage-truck-route-optimization-system./blob/main/assets/002.jpeg" style="max-height: 100px;" alt="Dustbin Details Fetched from Thingspeak">
+  <img src="https://github.com/MuhmmadAbrar/Routecraft-A-garbage-truck-route-optimization-system./blob/main/assets/003.jpeg" style="max-height: 100px;" alt="Optimized Route">
+</div>
 
 ## Contribution
 
