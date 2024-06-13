@@ -11,9 +11,9 @@ Routecraft is a sophisticated solution designed to optimize the routes of garbag
 - **Cost Efficiency**: Aims to reduce operational costs and fuel consumption.
 
 ## Implementation Snaps
-- <img src="https://github.com/MuhmmadAbrar/Routecraft-A-garbage-truck-route-optimization-system./blob/main/assets/001.jpeg" style="max-height: 200px; display: block; margin: 0 auto 10px auto;" alt="Smart Dustbin">
-- <img src="https://github.com/MuhmmadAbrar/Routecraft-A-garbage-truck-route-optimization-system./blob/main/assets/002.jpeg" style="max-height: 200px; display: block; margin: 0 auto 10px auto;" alt="Dustbin Details Fetched from Thingspeak">
-- <img src="https://github.com/MuhmmadAbrar/Routecraft-A-garbage-truck-route-optimization-system./blob/main/assets/003.jpeg" style="max-height: 200px; display: block; margin: 0 auto 10px auto;" alt="Optimized Route">
+- <img src="https://github.com/MuhmmadAbrar/Routecraft-A-garbage-truck-route-optimization-system./blob/main/assets/001.jpeg" style="max-height: 50px; display: block; margin: 0 auto 10px auto;" alt="Smart Dustbin">
+- <img src="https://github.com/MuhmmadAbrar/Routecraft-A-garbage-truck-route-optimization-system./blob/main/assets/002.jpeg" style="max-height: 50px; display: block; margin: 0 auto 10px auto;" alt="Dustbin Details Fetched from Thingspeak">
+- <img src="https://github.com/MuhmmadAbrar/Routecraft-A-garbage-truck-route-optimization-system./blob/main/assets/003.jpeg" style="max-height: 50px; display: block; margin: 0 auto 10px auto;" alt="Optimized Route">
 
 ## Installation
 
