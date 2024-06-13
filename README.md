@@ -81,6 +81,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 For any questions or suggestions, feel free to open an issue or contact the project maintainer:
 
 - **Muhmmad Abrar**: [GitHub Profile](https://github.com/MuhmmadAbrar)
+- **Srinidhi K**: [GitHub Profile](https://github.com/Srinidhi-Krishnan30)
+- **Mhanjhusriee B**: [GitHub Profile](https://github.com/Scarlet-15)
 
 ---
 
