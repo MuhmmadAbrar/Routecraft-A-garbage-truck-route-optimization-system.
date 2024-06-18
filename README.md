@@ -83,6 +83,7 @@ For any questions or suggestions, feel free to open an issue or contact the proj
 - **Muhmmad Abrar**: [GitHub Profile](https://github.com/MuhmmadAbrar)
 - **Srinidhi K**: [GitHub Profile](https://github.com/Srinidhi-Krishnan30)
 - **Mhanjhusriee B**: [GitHub Profile](https://github.com/Scarlet-15)
+- **Harinee J**: [GitHub Profile](https://github.com/Harxnee)
 
 ---
 
