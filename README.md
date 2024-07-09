@@ -5,6 +5,7 @@ Routecraft is a sophisticated solution designed to optimize the routes of garbag
 ## Features
 
 - **Route Optimization**: Generates optimal routes for garbage trucks based on various parameters such as distance, traffic conditions, and waste collection points.
+- **Priority Based Algorithm** - Usage of A* search algorithm and shortest path algorithms to create a priority-based system that takes into consideration all the above mentioned factors to give optimized route.
 - **Geospatial Analysis**: Utilizes geospatial data to plan and adjust routes dynamically.
 - **User-Friendly Interface**: Simple and intuitive interface for inputting data and viewing optimized routes.
 - **Real-Time Adjustments**: Allows for real-time route adjustments based on live traffic updates and other factors.
