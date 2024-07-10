@@ -61,7 +61,7 @@ Routecraft is a sophisticated solution designed to optimize the routes of garbag
 </div>
 
 ## **Demo Video**
-Our demo of this project can be viewed at: [Demo Video]([https://drive.google.com/file/d/1xQSirpzKFLr_wZ1K21lFBSGWG9wbacFl/view?usp=drive_link](https://drive.google.com/file/d/1xQSirpzKFLr_wZ1K21lFBSGWG9wbacFl/view?usp=drive_link))
+Our demo of this project can be viewed at: [Demo Video](https://drive.google.com/file/d/1xQSirpzKFLr_wZ1K21lFBSGWG9wbacFl/view?usp=drive_link)
 
 ## Contribution
 
