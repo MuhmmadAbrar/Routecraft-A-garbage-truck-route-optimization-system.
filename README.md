@@ -60,6 +60,9 @@ Routecraft is a sophisticated solution designed to optimize the routes of garbag
   <img src="https://github.com/MuhmmadAbrar/Routecraft-A-garbage-truck-route-optimization-system./blob/main/assets/003.jpeg" style="max-height: 100px;" alt="Optimized Route">
 </div>
 
+## **Demo Video**
+Our demo of this project can be viewed at: [Demo Video]([https://drive.google.com/file/d/1xQSirpzKFLr_wZ1K21lFBSGWG9wbacFl/view?usp=drive_link](https://drive.google.com/file/d/1xQSirpzKFLr_wZ1K21lFBSGWG9wbacFl/view?usp=drive_link))
+
 ## Contribution
 
 We welcome contributions from the community! If you'd like to contribute, please follow these steps:
