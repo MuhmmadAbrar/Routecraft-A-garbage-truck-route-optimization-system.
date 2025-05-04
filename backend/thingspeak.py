@@ -1,8 +1,8 @@
 import requests
 
 def dustbins():
-    CHANNEL_ID = "2512051"
-    API_KEY = "YVZ6OA3560DAGJTP"
+    CHANNEL_ID = ""
+    API_KEY = ""
 
     # Fetch the latest data
     response = requests.get(f"https://api.thingspeak.com/channels/{CHANNEL_ID}/fields/1/last.json?api_key={API_KEY}")
